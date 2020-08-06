@@ -1,0 +1,36 @@
+{
+  "_from": "git+https://git@github.com/trustee-wallet/djinni.git",
+  "_id": "djinni@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/djinni",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "djinni@git+https://git@github.com/trustee-wallet/djinni.git",
+    "name": "djinni",
+    "escapedName": "djinni",
+    "rawSpec": "git+https://git@github.com/trustee-wallet/djinni.git",
+    "saveSpec": "git+https://git@github.com/trustee-wallet/djinni.git",
+    "fetchSpec": "https://git@github.com/trustee-wallet/djinni.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://git@github.com/trustee-wallet/djinni.git#1773e17247a4298df46f31657f61d7da2d3fca61",
+  "_spec": "djinni@git+https://git@github.com/trustee-wallet/djinni.git",
+  "_where": "D:\\WWW\\dev_monero",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Djinni is a tool for generating cross-language type declarations and interface bindings. It's\r designed to connect C++ with either Java or Objective-C. Python support is available in an\r experimental version on the `python` branch.",
+  "license": "",
+  "main": "index.js",
+  "name": "djinni",
+  "peerDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

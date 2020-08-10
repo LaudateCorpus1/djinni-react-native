@@ -1,3 +1,7 @@
+# TO BUILD 
+
+make djinni_jar
+
 # Djinni for React Native
 
 This fork of Djinni is a simple proof of concept for automatically generating bindings between C++ and Javascript.
